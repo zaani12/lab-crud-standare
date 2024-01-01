@@ -11,7 +11,7 @@ This repository presents a standard Laravel project for task management.
 
 #### Critères de validation 
 
-- compléter le travail sur [`lab crud laravel basic`](https://github.com/Jalil-Betroji/lab-crud.git)
+- compléter le travail sur [`lab crud laravel basic`](https://github.com/zaani12/Lab-crud-basic)
 - Opérations CRUD pour les tâches
 - Pagination
 - Recherche (AJAX)
