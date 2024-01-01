@@ -2,7 +2,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="{{ route('home') }}" class="brand-link text-center">
-        <span class="brand-text font-weight-bold ">Lab Laravel Basic</span>
+        <span class="brand-text font-weight-bold ">Lab Laravel standard</span>
     </a>
 
     <!-- Sidebar -->
