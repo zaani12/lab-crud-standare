@@ -15,7 +15,7 @@
                     <a href="{{ route('home') }}" class="nav-link ">
                         <i class="nav-icon fas fa-table"></i>
                         <p>
-                            Tâche
+                            projets
                         </p>
                     </a>
                 </li>
