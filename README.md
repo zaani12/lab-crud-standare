@@ -1,21 +1,12 @@
-# lab crud standard
-This repository presents a standard Laravel project for task management.
+# lab laravel standard 
+## This repository presents a standard Laravel project for  task management. 
+### The Work that  should  includes the following features:
 
-## Référence 
-
-- https://github.com/labs-web/lab-crud-standard
-
-### Travail à faire
-
-- Compléter le travail sur le lab crud Laravel basic en utilisant le design pattern Repository, implémenter la recherche, ajouter la pagination et inclure la table des projets.
-
-#### Critères de validation 
-
-- compléter le travail sur [`lab crud laravel basic`](https://github.com/zaani12/Lab-crud-basic)
-- Opérations CRUD pour les tâches
+- CRUD Operations for Tasks
 - Pagination
-- Recherche (AJAX)
-- Design Pattern Repository
-- Affichage des projets
-- Filtrer par projet
-- Données d'exemple (jeux de test)
+- Search (AJAX)
+- Repository Pattern
+- Display Projects
+- Filter by Project
+- Sample Data(jeux de test)
+
